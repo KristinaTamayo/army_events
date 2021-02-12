@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 //Edited
+//Edited by GROUPMATE
 Route::get('/', function () {
     return view('welcome');
 });
